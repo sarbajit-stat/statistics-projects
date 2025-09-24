@@ -1,9 +1,9 @@
-# statistics-projects
+# Customer Churn Analysis
 My project using Statistics and Python
 <br>
 Author:Sarbajit Roy
 
-Customer Churn Prediction for a Streaming ServiceProject OverviewThis project provides an in-depth analysis of customer churn for a subscription-based streaming service. Using three distinct datasets—customer activity, demographic data, and subscription history—we perform exploratory data analysis, extensive feature engineering, and build several machine learning models to predict which customers are most likely to churn. The primary goal is to identify the key drivers of churn and provide actionable, data-driven recommendations to improve customer retention.
+Customer Churn Analysis for a Streaming ServiceProject OverviewThis project provides an in-depth analysis of customer churn for a subscription-based streaming service. Using three distinct datasets—customer activity, demographic data, and subscription history—we perform exploratory data analysis, extensive feature engineering, and build several machine learning models to predict which customers are most likely to churn. The primary goal is to identify the key drivers of churn and provide actionable, data-driven recommendations to improve customer retention.
 
 Key Findings: Engagement is the Dominating FactorThe analysis conclusively shows that the most significant predictor of churn is a customer's level of engagement with the platform.Primary Driver: Login activity was identified as the single most important feature. Customers who log in infrequently are at a very high risk of churning.
 
