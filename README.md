@@ -1,5 +1,5 @@
 # Customer Churn Analysis
-My project using Statistics and Python
+My project using Machine Learning and Python
 <br>
 Author:Sarbajit Roy
 
